@@ -1,2 +1,28 @@
-# synergo
-A lightweight, distributed job scheduler that makes it easy to setup, monitor, and control a pool of worker nodes.
+# The Ossimo Project
+ofjoiwje
+
+## Overview
+owjoifjweoij
+
+## Problem
+### The Complexity-Utility Problem
+### 
+
+## What is Ossimo?
+Ossimo is a platform that allows 
+### Complexity Managment
+owijefoiwej
+### 
+oifwjoeifj
+
+## Concepts
+oijfowiejf
+### Context
+
+```
+┌───────┐
+| hello | => 
+└───────┘
+```
+### Module
+ofjwefj
